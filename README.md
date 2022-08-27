@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **leeseoshim/leeseoshim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,35 +13,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-<a href="링크"><img src="위에있는뱃지코드"/></a>
-<a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
--->
 <!-- 여기부터 -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=lee%20seo&fontSize=90" />
+# ✨lee seo✨
+<!--조회수-->
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleeseoshim&count_bg=%23DA69AC&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+
+
+![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseoshim&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkawjd112)](https://solved.ac/tkawjd112/)
 
 
 
+<!--언어사용량-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeseoshim&layout=compact&theme=onedark)
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleeseoshim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<!--백준티어-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseoshim&show_icons=true&theme=omni)
-
-<!--배지 만드는 법-->
-<img src="https://img.shields.io/badge/배지 이름-#빼고넣기?style=flat-square&logo=로고이름&logoColor=색상"/>
+# 💪Skills
+### Platforms & Languages
+<!--배지 만드는 법
+<img src="https://img.shields.io/badge/배지 이름-#빼고넣기?style=flat-square&logo=로고이름&logoColor=색상"/>-->
 
 <!--자바스크립트 배지-->
-<span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></span>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 
-<!--리액트 배지-->
-<span><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></span>
-
+### Tools
 <!--비쥬얼스튜디오-->
-<span><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></span>
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkawjd112)](https://solved.ac/tkawjd112)
-
- <img src="http://mazandi.herokuapp.com/api?handle={tkawjd112}&theme=warm"/>
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
  
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkawjd112)](https://solved.ac/tkawjd112/)
+
