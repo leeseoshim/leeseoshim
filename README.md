@@ -11,9 +11,9 @@
 
 #### 🛠️ Github Stats
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leeseoshim&show_icons=true&theme=radical">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leeseoshim&show_icons=true&theme=radical">
  <!--언어사용량-->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeseoshim&layout=compact&theme=onedark">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeseoshim&layout=compact&theme=onedark">
 </p>
 
 
