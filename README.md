@@ -19,8 +19,16 @@ Here are some ideas to get you started:
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleeseoshim&count_bg=%23DA69AC&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 
 
-![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseoshim&show_icons=true&theme=radical)
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={leeseoshim})](https://solved.ac/{leeseoshim})
+![leeseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseoshim&show_icons=true&theme=radical)
+
+
+## 💬 About me
+- 🌱 I’m currently learning front-end skills
+- ❤️ I love to code and read
+<!-- - ⚡ Fun fact: I can sleep more than 12 hours straight -->
+
+#### 🎖️ Ranking
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkawjd112)](https://www.acmicpc.net/user/tkawjd112)
 
 
 
