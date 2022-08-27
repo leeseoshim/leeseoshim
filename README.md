@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 ![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseoshim&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkawjd112)](https://solved.ac/tkawjd112/)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={leeseoshim})](https://solved.ac/{leeseoshim})
 
 
 
