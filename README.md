@@ -1,41 +1,22 @@
-<!--
-**leeseoshim/leeseoshim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- 여기부터 -->
 # ✨lee seo✨
 <!--조회수-->
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleeseoshim&count_bg=%23DA69AC&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 
-
-![leeseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseoshim&show_icons=true&theme=radical)
-
-
 ## 💬 About me
 - 🌱 I’m currently learning front-end skills
-- ❤️ I love to code and read
-<!-- - ⚡ Fun fact: I can sleep more than 12 hours straight -->
 
+<!--백준티어-->
 #### 🎖️ Ranking
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkawjd112)](https://www.acmicpc.net/user/tkawjd112)
 
+#### 🛠️ Github Stats
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leeseoshim&show_icons=true&theme=radical">
+ <!--언어사용량-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeseoshim&layout=compact&theme=onedark">
+</p>
 
 
-<!--언어사용량-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeseoshim&layout=compact&theme=onedark)
-
-<!--백준티어-->
 
 # 💪Skills
 ### Platforms & Languages
@@ -53,4 +34,12 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
  
+ 
+ 
+
+ # 📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Seoul
+```
 
