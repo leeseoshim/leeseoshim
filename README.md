@@ -7,7 +7,7 @@
 
 <!--백준티어-->
 #### 🎖️ Ranking
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkawjd112)](https://www.acmicpc.net/user/tkawjd112)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeseo)](https://www.acmicpc.net/user/leeseo)
 
 #### 🛠️ Github Stats
 <p>
